@@ -33,3 +33,18 @@ El encapsulamiento fácilita al usuario la interaccion con el objeto, al mismo t
 [![h1.png](https://i.postimg.cc/0jsTBQp8/h1.png)](https://postimg.cc/xJ6pk9x7)
 
 [![h2.png](https://i.postimg.cc/HsK2YNhM/h2.png)](https://postimg.cc/CzGDJcYM)
+
+___
+
+# | UML: Diagrama de clases |
+El Lenguaje de Modelado Unificado es un lenguaje de modelado visual utilizado en programación para especificar, construir y documentar sistemas de software. Este lenguaje se usa en mucha variedad de sistemas, desde aplicaciones de escritorio hasta sistemas empresariales complejos. En particular, el Diagrama de Clases de UML es una herramienta comúnmente utilizada para visualizar la estructura de clases y objetos en un sistema, así como las relaciones entre ellos.
+
+## Principales autores
+El UML se implementó por primera vez en la década de los 90 gracias a tres ingenieros de software: Grady Booch, Ivar Jacobson y James Rumbaugh. El UML sigue siendo la indicación estándar para los desarrolladores, así como para gestores de proyectos, propietarios de negocios, empresarios tecnológicos y profesionales de distintos sectores.
+
+### Algunas herramientas para el modelado UML
+- GitMind
+- MagicDraw
+- Visual Paradigm
+- Lucidchart
+Microsoft es una de las empresas que utiliza UML como parte de su proceso de desarrollo de software y diseño de sistemas.
