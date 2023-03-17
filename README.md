@@ -1,2 +1,2 @@
 # ProgOO
-![Insertar imagen](Portada POO.jpg)
+![Insertar imagen](https://www.canva.com/design/DAFdbPzmwMo/view)
