@@ -23,3 +23,13 @@ El encapsulamiento sirve para ocultar los detalles internos de un objeto y sólo
 *Con encapsulamiento*
 
 ![Con Encapsulamiento](https://thumbs.dreamstime.com/z/apple-iphone-totalmente-abierto-dentro-del-ver-los-componentes-y-el-funcionamiento-de-este-incre%C3%ADble-tel%C3%A9fono-m%C3%B3vil-esta-imagen-212839872.jpg)
+
+### **Importancia**
+El encapsulamiento fácilita al usuario la interaccion con el objeto, al mismo tiempo que protege los datos y el comportamiento del mismo para que no haya alguna modificación no intencional del usuario.
+
+## **Herencia**
+Ésta permite que una clase nueva se inspire en una clase ya creada heredando sus atributos y comportamiento, añadiendo incluso nuevas caracteristicas. La primera clase seria la clase padre o base y la nueva seria la clase hija o derivada.
+
+[![h1.png](https://i.postimg.cc/0jsTBQp8/h1.png)](https://postimg.cc/xJ6pk9x7)
+
+[![h2.png](https://i.postimg.cc/HsK2YNhM/h2.png)](https://postimg.cc/CzGDJcYM)
