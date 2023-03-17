@@ -13,7 +13,8 @@ Es cuando separamos las propiedades de un objeto, descartamos lo que no es irrel
 ### **¿Por qué se considera fundamental en programación?**
 El modelado en la programación es esencial para ayudar a resolver problemas, representando partes o componentes de ese problema. Lo que se trata de modelar o representar en el programa es el funcionamiento de estas partes. Además, la abstracción también permite que los programadores compartan sus ideas y soluciones de programación de manera más efectiva, ya que los modelos simplificados que se crean mediante la abstracción son más fáciles de comunicar y comprender que los sistemas completos y complejos.
 
-##Encapsulamiento
+## Encapsulamiento
 El encapsulamiento sirve para ocultar los detalles internos de un objeto y sólo mostrar la interfaz. Ésto permite proteger el funcionamiento del objeto par que no sea modificado.
 
-[![iphone.jpg](https://i.postimg.cc/MZY9qvzC/iphone.jpg)](https://postimg.cc/nMC41Vj2)
+![Sin Encapsulamiento](https://i.postimg.cc/MZY9qvzC/iphone.jpg)](https://postimg.cc/nMC41Vj2)
+![Con Encapsulamiento](https://thumbs.dreamstime.com/z/apple-iphone-totalmente-abierto-dentro-del-ver-los-componentes-y-el-funcionamiento-de-este-incre%C3%ADble-tel%C3%A9fono-m%C3%B3vil-esta-imagen-212839872.jpg)
