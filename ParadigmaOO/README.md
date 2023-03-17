@@ -15,4 +15,5 @@ El modelado en la programación es esencial para ayudar a resolver problemas, re
 
 ##Encapsulamiento
 El encapsulamiento sirve para ocultar los detalles internos de un objeto y sólo mostrar la interfaz. Ésto permite proteger el funcionamiento del objeto par que no sea modificado.
+
 [![iphone.jpg](https://i.postimg.cc/MZY9qvzC/iphone.jpg)](https://postimg.cc/nMC41Vj2)
